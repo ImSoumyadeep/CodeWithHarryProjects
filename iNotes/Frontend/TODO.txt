@@ -1,0 +1,3 @@
+Frontend is under development.... It will be either using plain simple react or by Next JS. 
+If using Next then it will take some time to build because I am completely new to it and learning very slowly.
+So be patient and hope for something exiting :)
